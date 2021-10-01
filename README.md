@@ -16,9 +16,9 @@
 
 
 [![harukon's GitHub stats](https://github-readme-stats.vercel.app/api?username=harukon)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KonnoHaruto)](https://github.com/anuraghazra/github-readme-stats)
   
   
+
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harukon&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=harukon&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
