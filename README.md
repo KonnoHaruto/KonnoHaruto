@@ -1,8 +1,4 @@
 ### Hi there 👋
-
-- 💁‍♂️ I'm 17 years old.
-- 🌱 I’m currently learning ... Flutter 
-
 <p align="left"> 
   <a href="https://github.com/KonnoHaruto">
     <img src="https://komarev.com/ghpvc/?username=harukon" alt="harukon" />
@@ -13,6 +9,10 @@
   <a href="https://github.com/KonnoHaruto">
     <img height="20" src="https://img.shields.io/github/followers/harukon?label=follow&logo=github&style=flat" />
   </a>
+  
+  - 💁‍♂️ I'm 17 years old.
+- 🌱 I’m currently learning ... Flutter 
+
 
 
 ![KonnoHaruto's github stats](https://github-readme-stats.vercel.app/api?username=KonnoHaruto)
