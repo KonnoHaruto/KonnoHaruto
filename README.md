@@ -13,4 +13,5 @@
   - 💁‍♂️ I'm 17 years old.
   - 🌱 I’m currently learning ... Flutter 
   
-![harukon's GitHub stats](https://github-readme-stats.vercel.app/api?username=harukon&show_icons=true&theme=radical)
+[![harukon's github stats](https://github-readme-stats.vercel.app/api?username=harukon&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/KonnoHaruto)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harukon&layout=compact&theme=tokyonight)](https://github.com/KonnoHaruto/)
