@@ -36,4 +36,4 @@
 
 ## Trophy:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=KonnoHaruto&theme=monokai)](https://github.com/KonnoHaruto)
+[![trophy](https://github-profile-trophy.vercel.app/?username=KonnoHaruto)](https://github.com/KonnoHaruto)
