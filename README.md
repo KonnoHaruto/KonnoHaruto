@@ -16,7 +16,7 @@
 <br>
 
 - 💁‍♂️ I'm 17 years old.
-- 🌱 I’m currently learning ... Flutter 
+- 🌱 I’m currently learning ... Flutter, FireBase
 
 <br>
 
