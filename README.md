@@ -30,7 +30,7 @@
 
 [![harukon's GitHub stats](https://github-readme-stats.vercel.app/api?username=KonnoHaruto&theme=blue-green&show_icons=true&count_private=true))](https://github.com/KonnoHaruto)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KonnoHaruto&layout=compact&theme=blue-green)](https://github.com/KonnoHaruto)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=harukon&theme=blue-green)](https://github.com/KonnoHaruto)
+
 
 <br>
 
