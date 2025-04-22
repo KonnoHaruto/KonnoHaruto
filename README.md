@@ -12,8 +12,8 @@
 <br>
 <br>
 
-- 💁‍♂️ I'm 19 years old.
-- 🌱 I’m currently learning ... Flutter, Firebase
+- 💁‍♂️ I'm 20 years old.
+- 🎓 I'm a student at Monash College
 
 <br>
   
