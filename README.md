@@ -13,7 +13,6 @@
 <br>
 
 - 💁‍♂️ I'm 20 years old.
-- 🎓 I'm a student at Monash College
 
 <br>
   
