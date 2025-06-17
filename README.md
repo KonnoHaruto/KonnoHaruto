@@ -18,7 +18,7 @@
   
 ## States:
 
-[![harukon's GitHub stats](https://github-readme-stats.vercel.app/api?username=KonnoHaruto&theme=blue-green&show_icons=true&count_private=true)](https://github.com/KonnoHaruto)
+[![harukon's GitHub stats](https://github-readme-stats.vercel.app/api?username=KonnoHaruto&theme=blue-green&show_icons=true&count_title=true&include_all_commits=true_private=true)](https://github.com/KonnoHaruto)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KonnoHaruto&layout=compact&theme=blue-green)](https://github.com/KonnoHaruto)
 
 
