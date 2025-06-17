@@ -5,9 +5,6 @@
   <a href="https://github.com/KonnoHaruto">
     <img src="https://komarev.com/ghpvc/?username=harukon" alt="harukon" />
   </a>
-  <a href="http://twitter.com/rutyo2">
-    <img height="20" src="https://img.shields.io/twitter/follow/rutyo2?label=Twitter&logo=twitter&style=flat" />
-  </a>
   
 <br>
 
