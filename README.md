@@ -10,20 +10,23 @@
   </a>
   
 <br>
-<br>
 
-- 💁‍♂️ I'm 20 years old.
+- 👤　 20 years old<br>
+- 🎓💻 CS undergrad @ Monash University Malaysia ’25<br>
+- 🧡　 Japanese food (Udon, Sushi, Ramen)<br>
+- 🔧　 Flutter, firebase<br>
+
 
 <br>
   
 ## States:
 
-[![harukon's GitHub stats](https://github-readme-stats.vercel.app/api?username=KonnoHaruto&theme=blue-green&show_icons=true&count_title=true&include_all_commits=true_private=true)](https://github.com/KonnoHaruto)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KonnoHaruto&layout=compact&theme=blue-green)](https://github.com/KonnoHaruto)
+[![Haruto's GitHub stats](https://github-readme-stats.vercel.app/api?username=KonnoHaruto&show_icons=true&theme=holi&count_private=true&include_all_commits)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KonnoHaruto&layout=compact&theme=holi)](https://github.com/KonnoHaruto)
 
 
 <br>
 
 ## Trophy:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=KonnoHaruto)](https://github.com/KonnoHaruto)
+[![trophy](https://github-profile-trophy.vercel.app/?username=KonnoHaruto&theme=algolia)](https://github.com/KonnoHaruto)
