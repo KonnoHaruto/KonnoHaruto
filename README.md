@@ -11,7 +11,7 @@
 - 👤　 20 years old<br>
 - 🎓💻 CS undergrad @ Monash University Malaysia ’25<br>
 - 🧡　 Japanese food (Udon, Sushi, Ramen)<br>
-- 🔧　 Flutter, firebase<br>
+- 🔧　 Flutter, GCP, LINE Messaging API<br>
 
 
 <br>
